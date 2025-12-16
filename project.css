@@ -163,6 +163,4 @@ body{font-family:Inter,Segoe UI,Roboto,Arial,sans-serif;
 	.btn{transition:transform .18s ease, box-shadow .18s ease}
 	.btn:hover{transform:translateY(-3px)}
 }
-
-/* Utility spacing */
 .mt-1{margin-top:1rem}
